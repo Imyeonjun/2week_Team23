@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\imyeo\\source\\repos\\TextRPG\\TextRPG\\TextRPG.csproj",
+      "projectUniqueName": "C:\\Users\\imyeo\\OneDrive\\바탕 화면\\Github\\GithubDesktop\\1week_Team23\\TextRPG\\TextRPG\\TextRPG.csproj",
       "projectName": "TextRPG",
-      "projectPath": "C:\\Users\\imyeo\\source\\repos\\TextRPG\\TextRPG\\TextRPG.csproj",
+      "projectPath": "C:\\Users\\imyeo\\OneDrive\\바탕 화면\\Github\\GithubDesktop\\1week_Team23\\TextRPG\\TextRPG\\TextRPG.csproj",
       "packagesPath": "C:\\Users\\imyeo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\imyeo\\source\\repos\\TextRPG\\TextRPG\\obj\\",
+      "outputPath": "C:\\Users\\imyeo\\OneDrive\\바탕 화면\\Github\\GithubDesktop\\1week_Team23\\TextRPG\\TextRPG\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

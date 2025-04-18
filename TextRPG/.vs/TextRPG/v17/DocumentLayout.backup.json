@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\imyeo\\source\\repos\\TextRPG\\",
+  "WorkspaceRootPath": "C:\\Users\\imyeo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Github\\GithubDesktop\\1week_Team23\\TextRPG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBA4DDEB-8C0E-4D9F-AA4E-245A374229F2}|TextRPG\\TextRPG.csproj|c:\\users\\imyeo\\source\\repos\\textrpg\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBA4DDEB-8C0E-4D9F-AA4E-245A374229F2}|TextRPG\\TextRPG.csproj|c:\\users\\imyeo\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\github\\githubdesktop\\1week_team23\\textrpg\\textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBA4DDEB-8C0E-4D9F-AA4E-245A374229F2}|TextRPG\\TextRPG.csproj|solutionrelative:textrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\imyeo\\source\\repos\\TextRPG\\TextRPG\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\imyeo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Github\\GithubDesktop\\1week_Team23\\TextRPG\\TextRPG\\Program.cs",
               "RelativeDocumentMoniker": "TextRPG\\Program.cs",
-              "ToolTip": "C:\\Users\\imyeo\\source\\repos\\TextRPG\\TextRPG\\Program.cs",
+              "ToolTip": "C:\\Users\\imyeo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Github\\GithubDesktop\\1week_Team23\\TextRPG\\TextRPG\\Program.cs",
               "RelativeToolTip": "TextRPG\\Program.cs",
-              "ViewState": "AgIAAMAAAAAAAAAAAAAzwNIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T23:51:44.393Z",
               "EditorCaption": ""
